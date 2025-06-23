@@ -11,10 +11,6 @@ Here is a list of my skills thus far:
 5. MatPlotLib
    
 
-Here is a log of all my projects:
-
-1. April 13, 2025 --> Used Car Analytics Project.
-
 Connect with Me:
 LinkedIn: https://www.linkedin.com/in/naga-rahul-dhruva-konapala-922175351/
 EmailID : rahuldhruva.k9@gmail.com
